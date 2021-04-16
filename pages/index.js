@@ -7,20 +7,20 @@ export default function Home() {
       <Head>
         <meta name="go-import"
             content="diegomarangoni.dev/go
-                    git https://github.com/diegomarangoni/go"/>
+                    git https://github.com/diegomarangoni/go">
         <meta name="go-source"
               content="diegomarangoni.dev/go
                       https://github.com/diegomarangoni/go
                       https://github.com/diegomarangoni/go/tree/master{/dir}
-                      https://github.com/diegomarangoni/go/blob/master{/dir}/{file}#L{line}"/>
+                      https://github.com/diegomarangoni/go/blob/master{/dir}/{file}#L{line}">
         <meta name="go-import"
               content="diegomarangoni.dev/typenv
-                      git https://github.com/diegomarangoni/typenv"/>
+                      git https://github.com/diegomarangoni/typenv">
         <meta name="go-source"
               content="diegomarangoni.dev/typenv
                       https://github.com/diegomarangoni/typenv
                       https://github.com/diegomarangoni/typenv/tree/master{/dir}
-                      https://github.com/diegomarangoni/typenv/blob/master{/dir}/{file}#L{line}"/>
+                      https://github.com/diegomarangoni/typenv/blob/master{/dir}/{file}#L{line}">
         <title>Diego Marangoni</title>
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600&display=swap" rel="stylesheet"></link>
